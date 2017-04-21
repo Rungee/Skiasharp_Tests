@@ -1,12 +1,4 @@
-﻿/*
- * Created by SharpDevelop.
- * User: Runge
- * Date: 4/21/2017
- * Time: 12:53 PM
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
-using System;
+﻿using System;
 using System.IO;
 
 using SkiaSharp;
